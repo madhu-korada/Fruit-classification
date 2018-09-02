@@ -44,3 +44,8 @@ Peach - 450 images
 
 ![alt text](https://github.com/madhu-korada/Fruit-classification/blob/master/5%20classes.PNG)
 
+# sources
+
+check out the training data ![here]()
+
+check out the matlab workspace ![here]()
